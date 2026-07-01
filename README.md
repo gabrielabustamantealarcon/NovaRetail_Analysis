@@ -35,7 +35,7 @@ El proyecto sigue un flujo de trabajo estructurado para garantizar la integridad
 ## 💻 Cómo ejecutar el Notebook
 Para visualizar y ejecutar el análisis, se recomienda el uso de **Google Colab** por su facilidad para manejar entornos de Python:
 
-1.  Accede a [ ]
+1.  Accede a [https://colab.research.google.com/drive/1HZSxcBO-SCn_WPiViip83faUhyrABily#scrollTo=ezgZAoMNEeRg]
 2.  Ejecuta las celdas secuencialmente presionando `Shift + Enter`.
 
 ## 🛠️ Guía de Reproducción
