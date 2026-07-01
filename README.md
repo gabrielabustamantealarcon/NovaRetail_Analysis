@@ -31,3 +31,14 @@ El proyecto sigue un flujo de trabajo estructurado para garantizar la integridad
 | **4** | Calcular correlaciones adecuadas | Aplicación matemática de Pearson/Spearman, Punto biserial y V de Cramér según corresponda. |
 | **5** | Interpretar resultados | Transformación de la evidencia en una interpretación responsable e implicación de negocio. |
 | **6** | Limitaciones y próximos pasos | Delimitación de qué no se puede concluir a partir del análisis actual + propuesta de qué hacer después. |
+
+## 💻 Cómo ejecutar el Notebook
+Para visualizar y ejecutar el análisis, se recomienda el uso de **Google Colab** por su facilidad para manejar entornos de Python:
+
+1.  Accede a [ ]
+2.  Ejecuta las celdas secuencialmente presionando `Shift + Enter`.
+
+## 🛠️ Guía de Reproducción
+Para replicar este análisis en un entorno local:
+1.  **Clonar el repositorio** o descargar los archivos fuente.
+2.  **Ejecución:** Abre tu editor preferido (Jupyter Notebook, VS Code o PyCharm) y corre el script completo para generar los gráficos y el reporte final.
